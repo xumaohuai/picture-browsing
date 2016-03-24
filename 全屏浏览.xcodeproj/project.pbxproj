@@ -24,6 +24,7 @@
 		46A43C6C1CA2A9E4000F6E0C /* h3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46A43C681CA2A9E4000F6E0C /* h3.jpg */; };
 		46A43C6D1CA2A9E4000F6E0C /* h4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46A43C691CA2A9E4000F6E0C /* h4.jpg */; };
 		46A43C771CA2AE76000F6E0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46A43C761CA2AE76000F6E0C /* Assets.xcassets */; };
+		46A43C791CA38348000F6E0C /* 录屏2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 46A43C781CA38348000F6E0C /* 录屏2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		46A43C681CA2A9E4000F6E0C /* h3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = h3.jpg; sourceTree = "<group>"; };
 		46A43C691CA2A9E4000F6E0C /* h4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = h4.jpg; sourceTree = "<group>"; };
 		46A43C761CA2AE76000F6E0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		46A43C781CA38348000F6E0C /* 录屏2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "录屏2.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 		46A43C111CA26C21000F6E0C /* 全屏浏览 */ = {
 			isa = PBXGroup;
 			children = (
+				46A43C781CA38348000F6E0C /* 录屏2.gif */,
 				46A43C451CA26C41000F6E0C /* userDetail */,
 				46A43C151CA26C21000F6E0C /* AppDelegate.h */,
 				46A43C161CA26C21000F6E0C /* AppDelegate.m */,
@@ -310,6 +313,7 @@
 				46A43C6A1CA2A9E4000F6E0C /* h1.jpg in Resources */,
 				46A43C771CA2AE76000F6E0C /* Assets.xcassets in Resources */,
 				46A43C521CA26C41000F6E0C /* UserDetailController.xib in Resources */,
+				46A43C791CA38348000F6E0C /* 录屏2.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
